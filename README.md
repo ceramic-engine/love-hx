@@ -1,3 +1,5 @@
+_forked from: https://github.com/bartbes/love-haxe-wrappergen_
+
 This project uses the awesome [love-api][] project, which provides a lua tables representation of the love documention, to generate Haxe wrappers.
 To use this project, make sure to checkout the submodule (`git submodule update --init love-api`).
 
